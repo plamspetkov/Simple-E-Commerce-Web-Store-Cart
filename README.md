@@ -4,10 +4,10 @@ This is the code repository for an E-commerce web store built using React and Re
 Getting Started
 To run the application locally on your machine, simply clone this repository and run the following commands in your terminal:
 
-Copy code# install dependencies
+### Copy code# install dependencies
 npm install
 
-# run the development server
+### run the development server
 npm run dev
 
 Features
