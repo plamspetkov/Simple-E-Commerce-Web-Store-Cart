@@ -1,5 +1,5 @@
 # Simple E-Commerce Web Store Cart
-This is the code repository for an E-commerce web store built using React and Redux, with functionality for browsing products, adding items to cart, and checking out. The app also features a backend server run on Firebase real-time database, which is used for storing user data and shopping cart information.
+This is the code repository for an E-commerce web store cart built using React and Redux, with functionality for browsing products, adding items to cart. The app also features a backend server run on Firebase real-time database, which is used for storing shopping cart information.
 
 # Technologies Used
 The app is built using the following technologies:
@@ -25,7 +25,6 @@ npm run dev
 - Product browsing: Users can browse the app's selection of products and view details such as product name, description, and price.
 - Adding items to cart: Users can add items to their shopping cart by clicking the "Add to Cart" button on each product page. The cart contents are stored in the Firebase real-time database.
 - Cart management: Users can view their shopping cart by clicking the cart icon in the app header. The user can then remove items from the cart or adjust quantities of items already in the cart.
-- Checkout: When a user is ready to checkout, they can complete the checkout process using a simple form that validates user input and submits the order. The order information is also stored in the Firebase database.
 - Notifications: The app features a notification system that displays messages to the user indicating the status of various actions, such as adding items to the cart or submitting an order.
 
 
